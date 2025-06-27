@@ -1,5 +1,7 @@
 # Email-Spam-Detection
 
+📎 [Open in Google Colab](https://colab.research.google.com/drive/1z0rH3TStHB9D9ii7SamylaTuY7Bf-nvS?usp=sharing)
+
 This project is a machine learning-based SMS spam detection system using the Multinomial Naive Bayes classifier. It classifies text messages as either **spam** or **ham** (not spam).
 
 ---
